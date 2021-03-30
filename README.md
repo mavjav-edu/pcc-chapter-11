@@ -27,4 +27,4 @@ Write a test case for `Employee`. Write two test methods,
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-10)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-12)
+[&#10094; Prev](../../../pcc-chapter-10)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-12)
