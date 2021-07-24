@@ -1,4 +1,4 @@
-class AnonymousSurvey():
+class AnonymousSurvey:
     """Collect anonymous answers to a survey question."""
     
     def __init__(self, question):
@@ -18,4 +18,4 @@ class AnonymousSurvey():
         """Show all the responses that have been given."""
         print("Survey results:")
         for response in self.responses:
-            print('- ' + response)
+            print(f"- {response}")
