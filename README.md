@@ -14,7 +14,7 @@ them.
 
 
 <span id="page_222"></span>
-## TRY IT YOURSELF #1
+## TRY IT YOURSELF Ⓐ
 
 <span id="ch11exe1"></span>**11-1. City, Country:** Write a function
 that accepts two parameters: a city name and a country name. The
@@ -44,7 +44,7 @@ verifies you can call your function with the values `'santiago'`,
 `'chile'`, and `'population=5000000'`. Run *test_cities.py* again, and
 make sure this new test passes.
 
-## TRY IT YOURSELF #2
+## TRY IT YOURSELF Ⓑ
 
 <span id="ch11exe3"></span>**11-3. Employee:** Write a class called
 `Employee`. The `__init__()` method should take in a first name, a last
