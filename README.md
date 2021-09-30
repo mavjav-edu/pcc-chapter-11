@@ -2,16 +2,17 @@
 
 When you write a function or a class, you can also write tests for that
 code. Testing proves that your code works as it’s supposed to in
-response to all the input types it’s designed to receive. When you write
+response to all the input types it’s designed to receive.
+
+![Testing code like a scientist](./testing.webp)
+
+When you write
 tests, you can be confident that your code will work correctly as more
 people begin to use your programs. You’ll also be able to test new code
 as you add it to make sure your changes don’t break your program’s
 existing behavior. Every programmer makes mistakes, so every programmer
 must test their code often, catching problems before users encounter
 them.
-
-
-
 
 <span id="page_222"></span>
 ## TRY IT YOURSELF Ⓐ
@@ -31,8 +32,8 @@ sure `test_city_country()` passes.
 
 <span id="ch11exe2"></span>**11-2. Population:** Modify your function so
 it requires a third parameter, `population`. It should now return a
-single string of the form `City, Country ΓÇô population xxx`, such as
-`Santiago, Chile ΓÇô population 5000000`. Run *test_cities.py* again. Make
+single string of the form `City, Country  – population xxx`, such as
+`Santiago, Chile  – population 5000000`. Run *test_cities.py* again. Make
 sure `test_city_country()` fails this time.
 
 Modify the function so the `population` parameter is optional. Run
@@ -43,6 +44,8 @@ Write a second test called `test_city_country_population()` that
 verifies you can call your function with the values `'santiago'`,
 `'chile'`, and `'population=5000000'`. Run *test_cities.py* again, and
 make sure this new test passes.
+
+![World population](./connected-bim-population-growth.gif)
 
 ## TRY IT YOURSELF Ⓑ
 
